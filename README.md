@@ -7,4 +7,4 @@
 2. Flexbox
 3. Медиа-запросы
 
-Ссылка на проект:  https://annalink22.github.io/russian-travel/index.html
+Ссылка на проект:  https://annalink22.github.io/russian-travel/
